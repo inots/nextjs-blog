@@ -26,8 +26,8 @@ export default function Home({ allPostsData }) {
           This is a test website made to practice using the Next.js framework 
           in the context of a summer internship with <a href='https://www.b-reel.com/'>B-Reel</a> :)</p>
         <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          (This is a sample website made by following this{' '}
+          <a href="https://nextjs.org/learn">Next.js tutorial</a>.)
         </p>
       </section>
 
